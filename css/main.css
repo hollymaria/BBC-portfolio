@@ -694,7 +694,7 @@ button.stroke.large, .button.stroke.large {
 }
 button.stroke:hover, .button.stroke:hover {
 	border: 3px solid #B90E0A;
-	color: #007373;
+	color: #B90E0A;
 }
 button::-moz-focus-inner, input::-moz-focus-inner {
 	border: 0;
